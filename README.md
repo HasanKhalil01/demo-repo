@@ -1,2 +1,2 @@
 # demo-repo
-demo for git course 
+demo for git course !
